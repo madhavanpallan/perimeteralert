@@ -2,6 +2,8 @@
 
 `Covid-19` `chatbot` `Intelligent Systems` `WHO` `sensors`
 
+## AIoT Design Challenge 2026- A copy was submitted [here](https://github.com/madhavanpallan/perimeteralert/blob/main/AIoT%20Design%20Challenge%202026.pdf)
+
 ## Abstract
 We pursue the problem here as Covid19 being air-borne infection using the medium of water droplets in the air. Water droplets in the air can be quantified and measured as humidity. It is imperative to kill the medium to cut the transfer. In this paper, we study how disturbing the medium cuts the spread. Also, we look into other parameters of weather which assist the transfer of Covid-19 including temperature and air quality index of the surrounding.
 
